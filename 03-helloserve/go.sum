@@ -1,0 +1,8 @@
+github.com/boot-go/boot v0.0.0-20210911161319-fa1a7db05fd3/go.mod h1:tLrKcV0hjFhNNe90eeJ3gvEWp0uxukZTtYrmAS95Y0I=
+github.com/boot-go/boot v0.0.0-20210912083942-89e72585686a h1:L6nBIyfrk/ofERVKzNIWtVV5D+XrzKvUM68dVnsy9l0=
+github.com/boot-go/boot v0.0.0-20210912083942-89e72585686a/go.mod h1:tLrKcV0hjFhNNe90eeJ3gvEWp0uxukZTtYrmAS95Y0I=
+github.com/boot-go/stack v0.0.0-20210911175654-ffc170d54d86 h1:G3Y9oyi8kZw3aEmlanXpu1JK0JTU6InMLcJ8YtjzOD8=
+github.com/boot-go/stack v0.0.0-20210911175654-ffc170d54d86/go.mod h1:7HeFqDLElPVn6YAIk9hN7Dwcx3UO6qJpUBi12+5Ydig=
+github.com/go-chi/chi v1.5.4 h1:QHdzF2szwjqVV4wmByUnTcsbIg7UGaQ0tPF2t5GcAIs=
+github.com/go-chi/chi v1.5.4/go.mod h1:uaf8YgoFazUOkPBG7fxPftUylNumIev9awIWOENIuEg=
+github.com/go-chi/chi/v5 v5.0.3/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
